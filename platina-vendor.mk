@@ -2527,7 +2527,6 @@ PRODUCT_PACKAGES += \
     embms \
     WfdService \
     ims \
-    qcrilmsgtunnel \
     imssettings \
     PowerOffAlarm \
     QFingerprintService \
