@@ -2525,7 +2525,6 @@ PRODUCT_PACKAGES += \
     SoterService \
     datastatusnotification \
     embms \
-    CNEService \
     WfdService \
     ims \
     qcrilmsgtunnel \
